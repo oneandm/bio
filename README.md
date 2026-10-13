@@ -163,6 +163,5 @@ do whatever you want with it, mit vibes. add a `LICENSE` file if you want it off
 
 if this helped, leave a star. it's free and it makes me happy ♡
 
-*made with way too much blur*
 
 </div>
